@@ -1,0 +1,26 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+img {
+  width: 300px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  background: green;
+  color: white;
+  padding: 1px;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+}
